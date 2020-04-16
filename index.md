@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Arnau López Static Web
 
-You can use the [editor on GitHub](https://github.com/xErxAresx/Practica_Static_Web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget ipsum tempor, egestas velit ut, convallis sem. Donec quis ligula varius, pellentesque lacus sodales, eleifend dolor. Cras sit amet sem sit amet lectus elementum maximus. Nulla aliquam vulputate venenatis. Proin sed lobortis tellus, sit amet malesuada risus. Aliquam at nulla quis ante iaculis porttitor nec a erat. Proin sed lacus et felis aliquet elementum. Aenean ac pellentesque quam. Etiam magna massa, iaculis vel erat a, gravida aliquet ex. Sed a dui id lectus tempor venenatis. Suspendisse faucibus est sed placerat dapibus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://nypdecider.files.wordpress.com/2019/05/one-punch-man-season-2-episode-6.jpg?quality=90&strip=all&w=720&h=480&crop=1)
 
-### Markdown
+### Jodido coronavirus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Por _culpa del coronavirus_ se me estan torciendo los estudios, con lo bien que iba yo me cago en to de verdad que vida tan perra
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +28,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Hahaha equisde
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xErxAresx/Practica_Static_Web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Morbi rutrum, odio fringilla congue semper, sapien est egestas diam, sed tristique leo nisi eu nulla. Aenean ultrices a purus eget vulputate. Cras quis neque felis. Vivamus mattis et quam vel sodales. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per **inceptos himenaeos**. _Morbi in mi non magna suscipit maximus vitae vitae leo_. **Nullam et eros nulla.** Aenean sapien ligula, gravida ac tellus eu, pretium imperdiet velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc leo justo, molestie a vestibulum nec, feugiat non orci. Aenean nibh urna, scelerisque quis eros nec, feugiat vestibulum ipsum.
 
-### Support or Contact
+![Image](https://www.denofgeek.com/wp-content/uploads/2016/04/one_punch_man_ok.jpg?resize=620%2C382)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Pos eso, que vaya curso nos ha tocado
+
+Mauris ornare ipsum neque, nec dictum quam venenatis a. Praesent dictum sodales nunc ut egestas. Proin tristique sapien quis magna tincidunt mattis. Praesent nisi turpis, volutpat non accumsan eu, condimentum in lectus. Vestibulum vitae felis sit amet massa sodales elementum. Suspendisse arcu neque, lobortis in lorem et, malesuada fringilla dolor. Nunc commodo euismod condimentum. Pellentesque justo massa, blandit nec massa vitae, aliquam tincidunt lectus. Fusce tincidunt enim risus, sollicitudin rutrum orci finibus quis.
+
+
